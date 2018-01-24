@@ -1,14 +1,14 @@
 # plantastic
 (WIP) react app to help me and my partner plan our world travels.
 
-Development Plan
+## Development Plan
 - [ ] Basic `ideas` page logic and data structures
 - [ ] Basic UI for `ideas` page
 - [ ] Deploy to a github.io page (Is that how react apps work?)
 - [ ] `itinerary` page backend, UI
 - [ ] Print out / email complete page feature
 
-Features TBA
+## Features TBA
 - [ ] Create map/routes based on itinerary considering time spent, travel time, etc.
 - [ ] Nearby search and suggestions
 - [ ] Tickets and booking helper
