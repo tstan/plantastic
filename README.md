@@ -2,6 +2,7 @@
 (WIP) react app to help me and my partner plan our world travels.
 
 ## Development Plan
+- [x] Setup environment; learn how to deploy react to github; basic setup.
 - [ ] Basic `ideas` page logic and data structures
 - [ ] Basic UI for `ideas` page
 - [ ] Deploy to a github.io page (Is that how react apps work?)
