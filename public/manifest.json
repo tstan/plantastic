@@ -1,6 +1,6 @@
 {
-  "short_name": "Calculator",
-  "name": "React Calculator Example App",
+  "short_name": "Plantastic",
+  "name": "Plantastic (a react app) - plan anything.",
   "icons": [
     {
       "src": "favicon.ico",
